@@ -22,3 +22,9 @@ The training data and test data comprise of 19802 samples and of 6601 samples ea
 
 # Problem Statement
 Based on the given attributes and salary information, build a robust machine learning model that predicts the salary range of the salary post.
+
+# Evaluation Metric
+Submissions are evaluated on the acccuracy between the predicted and the observed target.
+
+# Leaderboard
+3rd Rank - 0.465990002
