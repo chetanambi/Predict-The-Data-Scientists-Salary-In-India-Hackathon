@@ -10,6 +10,8 @@ The best data scientists and machine learning engineers will be given awesome pr
 The dataset is based on salary and job postings in India across the internet. The train and the test data consists of attributes mentioned below. The rows of train dataset has rich amount of information regarding the job posting such as name of the designation and key skills required for the job.
 The training data and test data comprise of 19802 samples and of 6601 samples each. This is a dataset which has been collected over some time to gather relevant analytics jobs posting over the years.
 
+Data can be downloaded from https://www.machinehack.com/course/predict-the-data-scientists-salary-in-india-hackathon/
+
 # Features
 - Name of the company (Encoded)
 - Years of experience
@@ -27,4 +29,8 @@ Based on the given attributes and salary information, build a robust machine lea
 Submissions are evaluated on the acccuracy between the predicted and the observed target.
 
 # Leaderboard
-3rd Rank - 0.465990002
+3rd Rank - 0.465990002 (Recieved exclusive passes Machine Learning Developer's Summit 2019, Bengaluru)
+
+Featured in the Analytics India Magazine -
+https://www.analyticsindiamag.com/machinehack-winners-how-industry-mavericks-predicted-data-scientists-salary-and-won-big/
+
